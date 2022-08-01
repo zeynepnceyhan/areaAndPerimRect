@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\bin\Debug\net6.0\areaandperimofrec.exe
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\bin\Debug\net6.0\areaandperimofrec.deps.json
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\bin\Debug\net6.0\areaandperimofrec.runtimeconfig.json
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\bin\Debug\net6.0\areaandperimofrec.dll
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\bin\Debug\net6.0\areaandperimofrec.pdb
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.dll
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\refint\areaandperimofrec.dll
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.pdb
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\areaandperimofrec.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\areaandperimofrec\areaandperimofrec\obj\Debug\net6.0\ref\areaandperimofrec.dll
